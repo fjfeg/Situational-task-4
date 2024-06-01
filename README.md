@@ -6,7 +6,11 @@ EduFuture Learning Solutions" is planning to launch a new training course titled
 
 # Additional Requirements:
 -The course should comprehensively cover basic algorithmic concepts.
+
 -It should cater to first-year IT students with varying levels of prior knowledge.
+
 -Interactive learning materials and practical examples should be incorporated to enhance understanding.
+
 -Collaboration with universities and schools to integrate the course into existing curricula is desired.
+
 -Corporate clients may seek tailored versions of the course for their employees, emphasizing practical applications in the industry.
