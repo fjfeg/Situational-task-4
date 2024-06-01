@@ -14,3 +14,18 @@ EduFuture Learning Solutions" is planning to launch a new training course titled
 -Collaboration with universities and schools to integrate the course into existing curricula is desired.
 
 -Corporate clients may seek tailored versions of the course for their employees, emphasizing practical applications in the industry.
+
+# Udemy Platform
+[ Start Course](https://www.udemy.com/course/draft/6002012/?instructorPreviewMode=guest),
+[Google Disk](https://drive.google.com/drive/folders/1-d9Gi4b0hbv00QbEHvN_jq-f60QC-9v0)
+
+
+![image](https://github.com/fjfeg/Situational-task-4/assets/153439663/620bf8c6-afc8-4879-aef3-e5c0ce414cb8)
+
+
+![image](https://github.com/fjfeg/Situational-task-4/assets/153439663/8f63412f-caf4-47f4-880a-6ade6d711fa9)
+
+
+![image](https://github.com/fjfeg/Situational-task-4/assets/153439663/fb2753d0-447a-4ddd-8e3c-a7fe75fe474d)
+
+![image](https://github.com/fjfeg/Situational-task-4/assets/153439663/3b65b17d-0c78-4a36-b0f0-61a6c001771c)
